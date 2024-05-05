@@ -1,4 +1,4 @@
-# Welcome to my Organization Profile
+# 🤗Welcome to my Organization Profile
 
 Here is my personal GitHub account: 
 
@@ -8,7 +8,7 @@ Here is my personal GitHub account:
 
 
 # 💫 About Me:
-Hi there 👋<br><br>I'm a passionate machine learning enthusiast with experience in deep learning with Deep Learning tools such as PyTorch, TensorFlow, and other related technologies. In addition to my ML/DL expertise, I also have knowledge in DevOps with Kubernetes, CI/CD, Git version control, microservices, and fastapi servers.<br>My ultimate goal is to become an ML Engineer, as well as an MLOps Engineer, and help organizations leverage the power of machine learning and AI to solve complex business challenges.<br><br>🔭 Skills and Tools<br><br>- Machine Learning / Deep Learning<br>- PyTorch, TensorFlow<br>- DevOps<br>- Kubernetes<br>- CI/CD<br>- Git Version Control<br>- Microservices<br>- FastAPI Servers<br><br>🌱 Learning and Development Goals<br><br>- Further hone my machine learning and deep learning skills<br>- Gain experience in cloud-based machine learning platforms and services<br>- Continue learning about MLOps best practices<br>- Develop expertise in natural language processing and computer vision<br><br>📫 Let's Connect<br><br>If you're interested in learning more about my work, or have any opportunities you'd like to discuss, feel free to connect with me on LinkedIn
+I'm a passionate machine learning enthusiast with experience in deep learning with Deep Learning tools such as PyTorch, TensorFlow, and other related technologies. In addition to my ML/DL expertise, I also have knowledge in DevOps with Kubernetes, CI/CD, Git version control, microservices, and fastapi servers.<br>My ultimate goal is to become an ML Engineer, as well as an MLOps Engineer, and help organizations leverage the power of machine learning and AI to solve complex business challenges.<br><br>🔭 Skills and Tools<br><br>- Machine Learning / Deep Learning<br>- PyTorch, TensorFlow<br>- DevOps<br>- Kubernetes<br>- CI/CD<br>- Git Version Control<br>- Microservices<br>- FastAPI Servers<br><br>🌱 Learning and Development Goals<br><br>- Further hone my machine learning and deep learning skills<br>- Gain experience in cloud-based machine learning platforms and services<br>- Continue learning about MLOps best practices<br>- Develop expertise in natural language processing and computer vision<br><br>📫 Let's Connect<br><br>If you're interested in learning more about my work, or have any opportunities you'd like to discuss, feel free to connect with me on LinkedIn
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ducanh-ho2296) 
